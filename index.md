@@ -7,8 +7,8 @@ I have uploaded this page for devlogs, you'll be able to see what are included i
 
 For questions, join my Discord server [here!](https://discord.gg/jkxrBwvAwJ)
 
-### Changelogs
-#
+### _Changelogs_
+
 
 ### ~ 2021/07/05
 
