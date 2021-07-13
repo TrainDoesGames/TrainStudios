@@ -12,6 +12,8 @@ Find them [here!](https://bit.ly/AklizURL)
 
 ### **_Changelogs_**
 
+###### Date-time format: yyyy/mm/dd
+
 
 ### ~ 2021/07/05
 
