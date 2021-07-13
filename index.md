@@ -16,3 +16,7 @@ Find them [here!](https://bit.ly/AklizURL)
 ### ~ 2021/07/05
 
 `Added this page and added some additional links`
+
+### ~ 2021/07/13
+
+`Did some curseforge page editing, also getting close to finishing some of the newer quests. Make sure to give me ideas it you've got any!`
