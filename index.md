@@ -26,3 +26,8 @@ My modpack can be found [here!](https://bit.ly/AOF-Pack)
 
 `Did some curseforge page editing, also getting close to finishing some of the newer quests. Make sure to give me ideas it you've got any!`
 `Also added a date time format to this website!`
+
+### ~ 2021/07/20
+
+`May or may not have to risk it and make everyone's game lose every tree they have since Mantle and Dynamic Trees - Quark don't want to work together on forge 36.1.1`
+`please do not worry, the modpack isn't that big and you only have to start a new save. Join my discord if you want more info on this.`
