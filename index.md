@@ -19,9 +19,11 @@ My modpack can be found [here!](https://bit.ly/AOF-Pack)
 
 
 ### ~ 2021/09/08
+
 `it's been another month! I am now confirming I will change to GDLauncher on my side for easiness when developing.` **This will not change or remove anything on your side as I won't move away from CurseForge**
 
 ### ~ 2021/08/24
+
 `Hey everybody! It's me, Train. I am here to tell you that I'm now returning to developing Ages Of Factories, currently there won't be big changes. But you may expect more updates now!`
 
 ### ~ 2021/07/20
